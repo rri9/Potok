@@ -15,9 +15,10 @@ namespace Potok
             List<string> journals_work_list = CreateWorkList(journals_path);
 
             //Выводим список рабочих файлов
-            foreach (string s in journals_work_list)
-            {
-                Console.WriteLine("  {0}", s);
+            if (journals_work_list!=null) {
+                foreach (string s in journals_work_list) {
+                    Console.WriteLine("  {0}", s);
+                }
             }
         }
 
