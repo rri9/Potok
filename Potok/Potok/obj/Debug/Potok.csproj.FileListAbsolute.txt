@@ -2,13 +2,9 @@ D:\Ruslan\Git\Potok\Potok\Potok\bin\Debug\Potok.exe.config
 D:\Ruslan\Git\Potok\Potok\Potok\bin\Debug\Potok.exe
 D:\Ruslan\Git\Potok\Potok\Potok\bin\Debug\Potok.pdb
 D:\Ruslan\Git\Potok\Potok\Potok\obj\Debug\Potok.csprojAssemblyReference.cache
+D:\Ruslan\Git\Potok\Potok\Potok\obj\Debug\Potok.Form1.resources
+D:\Ruslan\Git\Potok\Potok\Potok\obj\Debug\Potok.Properties.Resources.resources
+D:\Ruslan\Git\Potok\Potok\Potok\obj\Debug\Potok.csproj.GenerateResource.cache
 D:\Ruslan\Git\Potok\Potok\Potok\obj\Debug\Potok.csproj.CoreCompileInputs.cache
 D:\Ruslan\Git\Potok\Potok\Potok\obj\Debug\Potok.exe
 D:\Ruslan\Git\Potok\Potok\Potok\obj\Debug\Potok.pdb
-c:\Git\Potok\Potok\Potok\bin\Debug\Potok.exe.config
-c:\Git\Potok\Potok\Potok\bin\Debug\Potok.exe
-c:\Git\Potok\Potok\Potok\bin\Debug\Potok.pdb
-c:\Git\Potok\Potok\Potok\obj\Debug\Potok.csprojAssemblyReference.cache
-c:\Git\Potok\Potok\Potok\obj\Debug\Potok.csproj.CoreCompileInputs.cache
-c:\Git\Potok\Potok\Potok\obj\Debug\Potok.exe
-c:\Git\Potok\Potok\Potok\obj\Debug\Potok.pdb
