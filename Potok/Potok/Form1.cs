@@ -16,7 +16,14 @@ namespace Potok
         public Form1()
         {
             InitializeComponent();
+            //
+            string journals_path = "d:\\Ruslan\\Potok\\";
+            foreach(string s in MyFunctions.CreateWorkList(journals_path)) {
+                listBox_j_w_l.Items.Add(s);
+            }
         }
+
+
     }
 }
 
