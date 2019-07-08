@@ -33,6 +33,7 @@
             this.оПрограммеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.listBox_grz = new System.Windows.Forms.ListBox();
             this.listBox_j_w_l = new System.Windows.Forms.ListBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -50,13 +51,13 @@
             // менюToolStripMenuItem
             // 
             this.менюToolStripMenuItem.Name = "менюToolStripMenuItem";
-            this.менюToolStripMenuItem.Size = new System.Drawing.Size(51, 20);
+            this.менюToolStripMenuItem.Size = new System.Drawing.Size(48, 20);
             this.менюToolStripMenuItem.Text = "Меню";
             // 
             // оПрограммеToolStripMenuItem
             // 
             this.оПрограммеToolStripMenuItem.Name = "оПрограммеToolStripMenuItem";
-            this.оПрограммеToolStripMenuItem.Size = new System.Drawing.Size(92, 20);
+            this.оПрограммеToolStripMenuItem.Size = new System.Drawing.Size(83, 20);
             this.оПрограммеToolStripMenuItem.Text = "О программе";
             // 
             // listBox_grz
@@ -65,22 +66,32 @@
             this.listBox_grz.Location = new System.Drawing.Point(13, 28);
             this.listBox_grz.Name = "listBox_grz";
             this.listBox_grz.SelectionMode = System.Windows.Forms.SelectionMode.None;
-            this.listBox_grz.Size = new System.Drawing.Size(151, 485);
+            this.listBox_grz.Size = new System.Drawing.Size(151, 329);
             this.listBox_grz.TabIndex = 2;
             // 
             // listBox_j_w_l
             // 
             this.listBox_j_w_l.FormattingEnabled = true;
-            this.listBox_j_w_l.Location = new System.Drawing.Point(299, 27);
+            this.listBox_j_w_l.HorizontalScrollbar = true;
+            this.listBox_j_w_l.Location = new System.Drawing.Point(216, 27);
             this.listBox_j_w_l.Name = "listBox_j_w_l";
-            this.listBox_j_w_l.Size = new System.Drawing.Size(225, 485);
+            this.listBox_j_w_l.Size = new System.Drawing.Size(308, 329);
             this.listBox_j_w_l.TabIndex = 3;
+            // 
+            // label1
+            // 
+            this.label1.Location = new System.Drawing.Point(13, 398);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(338, 72);
+            this.label1.TabIndex = 4;
+            this.label1.Text = "label1";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(560, 606);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.listBox_j_w_l);
             this.Controls.Add(this.listBox_grz);
             this.Controls.Add(this.menuStrip1);
@@ -100,6 +111,7 @@
         private System.Windows.Forms.ToolStripMenuItem оПрограммеToolStripMenuItem;
         public System.Windows.Forms.ListBox listBox_grz;
         private System.Windows.Forms.ListBox listBox_j_w_l;
+        private System.Windows.Forms.Label label1;
     }
 }
 
